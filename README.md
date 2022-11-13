@@ -65,7 +65,12 @@ Simply clone the repo to get your own local copy
 
 <!-- Format -->
 ### Input File Format
-
+* The only supported file type is ```.txt```
+* All rows must have the same length
+* All columns must have the same length
+* Any whitespace within the maze must be filled with a space character ```' '```
+* Walls within the maze must be represented with a ```*``` character
+* No characters should exist outside the maze
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
