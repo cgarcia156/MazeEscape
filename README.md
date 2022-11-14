@@ -42,7 +42,7 @@
 <img src="Images/output.png" alt="Example" width="600" height="340">
 </div>
 
-This maze escape program finds the direction to escape from any point in a given maze. When the program is run, it will prompt for a text file containing the maze. [See the proper file format here](#input-file-format)
+This maze escape program finds the direction to escape from any point in a given maze. When the program is run, it will prompt for a text file containing the maze. The output will replace each space character with one of [N,W,S,E] to represent the quickest direction to take in order to escape the maze. [See the proper file format here](#input-file-format)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
